@@ -1,0 +1,13 @@
+cmake-build-*
+Drivers
+Core/Startup
+
+Core/Src/stm32*.c
+Core/Inc/stm32*.h
+
+.mxproject
+.cproject
+.project
+CMakeLists.txt
+CMakeLists_template.txt
+*.ld
